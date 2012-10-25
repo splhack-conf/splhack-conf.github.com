@@ -4,17 +4,17 @@
     width: 910px;
 }
 #slider h2 {
-    color: gray;
+    color: white;
 }
 #slider h3 {
-    color: gray;
+    color: white;
 }
 #slider h3 small {
     color: #ccc;
     font-size: 50%;
 }
 #slider p {
-    color: gray;
+    color: white;
 }
 
 .speakers td.speaker {
